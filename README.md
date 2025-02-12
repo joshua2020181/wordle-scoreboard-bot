@@ -1,6 +1,6 @@
 # wordle-scoreboard-bot
 
-Simple discord bot where it compiles the results message shared by popular Wordle-like games, such as [Tradle](https://games.oec.world/en/tradle/), [Yeardle](https://histordle.com/yeardle/), or [Connections](https://www.nytimes.com/games/connections) and has a daily leaderboard. Just press "share results" and send it to the designated channel for this bot. It will send out a daily scoreboard message at midnight, and also has the `scoreboard` command to send the current scoreboard.
+Simple discord bot that compiles the results of popular Wordle-like games, such as [Tradle](https://games.oec.world/en/tradle/), [Yeardle](https://histordle.com/yeardle/), or [Connections](https://www.nytimes.com/games/connections) and has a daily leaderboard. Just press "share results" after playing one of the supported games and send it to the designated channel for this bot. It will send out a daily scoreboard message at midnight, and also has the `scoreboard` command to send the current scoreboard.
 
 ## Example messages from Wordle-like games:
 ```
